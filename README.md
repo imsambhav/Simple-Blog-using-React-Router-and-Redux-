@@ -12,3 +12,5 @@ Add post.
 
 View Post.
 ![2](https://user-images.githubusercontent.com/15637153/36704224-5291e81a-1b14-11e8-909c-322aa36088d1.JPG)
+
+Thnaks!!
